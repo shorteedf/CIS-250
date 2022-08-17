@@ -1,2 +1,2 @@
-# CIS-250
-SNHU's CIS-250 Course assignment
+# CS-250
+SNHU's CS-250 Course assignment
